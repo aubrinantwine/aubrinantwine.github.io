@@ -3,5 +3,3 @@ plugins:
   
 remote_theme: BDHU/minimalist
 
-bundle exec jekyll serve
-
