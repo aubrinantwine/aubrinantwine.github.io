@@ -6,3 +6,4 @@ email: ada3654@eid.utexas.edu
 color-scheme: auto
 plugins:
   - jekyll-sitemap
+remote_theme: BDHU/minimalist
