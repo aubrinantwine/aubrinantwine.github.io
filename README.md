@@ -1,7 +1,10 @@
 # aubrinantwine.github.io
 
-## About
+
+### About
 Student studying public affairs and economics at the University of Texas at Austin, interested in how data drives policy and economic decisions.
+
+
 ### Education
 B.A Public Affairs,
 Minor: Economics
