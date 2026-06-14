@@ -6,8 +6,10 @@ Student studying public affairs and economics at the University of Texas at Aust
 
 
 ### Education
-B.A Public Affairs,
+B.A Public Affairs
+
 Minor: Economics
+
 Relevant Coursework: Intro to Microeconomics, Intro to Macroeconomics, Foundations of Data Analysis, Analysis of Policy Adoption and Implementation, Intro to Education Policy
  
 
