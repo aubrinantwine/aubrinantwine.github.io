@@ -20,7 +20,7 @@ CITI Program – Human Subjects Research (Social/Behavioral Investigators)
 
 ### Projects
 
-# Taxi Price Regression Model
+#### Taxi Price Regression Model
 Uses real-world taxi trip data from Kaggle to train and evaluate a predictive pricing model.
 - **Tech used:** R
 - [GitHub Repo](https://github.com/aubrinantwine/taxi-price-prediction)
