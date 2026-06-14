@@ -2,7 +2,7 @@ title: Aubrin Antwine
 remote_theme: pages-themes/minimal@v0.2.0
 logo: assets/img/IMG_6725.JPG
 email: ada3654.eid.utexas.edu
-show_downloads: true
+show_downloads: false
 color-scheme: auto
 plugins:
   - jekyll-remote-theme
