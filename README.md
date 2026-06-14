@@ -11,6 +11,14 @@ B.A Public Affairs
 Minor: Economics
 
 Relevant Coursework: Intro to Microeconomics, Intro to Macroeconomics, Foundations of Data Analysis, Analysis of Policy Adoption and Implementation, Intro to Education Policy
+
  
+### Technical Skills
+SQL, R, Excel
+
+
+### Certifications
+CITI Program – Human Subjects Research (Social/Behavioral Investigators)
+
 
 ### Projects
