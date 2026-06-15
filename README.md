@@ -1,6 +1,4 @@
-### About
-Student studying public affairs and economics at the University of Texas at Austin, interested in how data drives policy and economic decisions.
-
+### Email: ada3654@eid.utexas.edu
 
 ### Education
 B.A Public Affairs
