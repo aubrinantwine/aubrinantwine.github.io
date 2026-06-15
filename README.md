@@ -1,5 +1,3 @@
-### Email: ada3654@eid.utexas.edu
-
 ### Education
 B.A Public Affairs
 
@@ -28,3 +26,4 @@ A chi-square test of independence examining whether financial aid status is asso
 - **Tech used:** Microsoft Excel
 - [GitHub Repo](https://github.com/aubrinantwine/UT-Austin-Graduation-Rate-Analysis)
 
+##### Email: ada3654@eid.utexas.edu
