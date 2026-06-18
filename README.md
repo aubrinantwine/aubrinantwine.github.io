@@ -26,4 +26,10 @@ A chi-square test of independence examining whether financial aid status is asso
 - **Tech used:** Microsoft Excel
 - [GitHub Repo](https://github.com/aubrinantwine/UT-Austin-Graduation-Rate-Analysis)
 
+### How Graduation Rates Climb After Year 4
+A data journalism piece produced as a tryout submission for The Daily Texan, comparing 4-year and 6-year graduation rates across UT System and Texas A&M System institutions using IPEDS data.
+ - **Tech used** Microsoft Excel, R
+ - [GitHub Repo](https://github.com/aubrinantwine/How-Graduation-Rates-Climb-After-Year-4)
+
+
 ##### Email: ada3654@eid.utexas.edu
