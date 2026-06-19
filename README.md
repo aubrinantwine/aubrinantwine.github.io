@@ -21,7 +21,7 @@ Uses real-world taxi trip data from Kaggle to train and evaluate a predictive pr
 - **Tech used:** R
 - [GitHub Repo](https://github.com/aubrinantwine/taxi-price-prediction)
 
-#### UT Austin Graduation Rate Analysis
+#### Examing Relationship Between Financial Aid and Timely Graduation at UT Austin
 A chi-square test of independence examining whether financial aid status is associated with on-time graduation rates among first-time, full-time bachelor's degree-seeking students who entered UT Austin in 2018.
 - **Tech used:** Microsoft Excel
 - [GitHub Repo](https://github.com/aubrinantwine/UT-Austin-Graduation-Rate-Analysis)
